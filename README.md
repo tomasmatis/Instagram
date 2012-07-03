@@ -1,0 +1,22 @@
+# Simple Instagram images plugin (widget style)
+
+
+### Example
+
+   <html>
+   <head>
+      <title>Simple Instagram plugin</title>
+   </head>
+   <body>
+
+   <div class="images"></div>
+
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+   <script src="instagram.js"></script>
+   <script>
+   $(document).ready(function() {
+      $('.images').instagram();
+   });   
+   </script>
+   </body>
+   </html>
