@@ -1,6 +1,8 @@
 /**
  * Simple Instagram images plugin (widget style)
  * @author Tomas Matis (tomas.matis@symbio.cz)
+ *
+ * @version 0.1.1
  * @param {Object} options Additional (optional) parameters.
 */
 
