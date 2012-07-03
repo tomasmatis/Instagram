@@ -20,8 +20,8 @@
             this.domTarget = $(target);
 
             this.options = $.extend({
-                user_id: 232157,            // {Number} - Your instagram user_id.
-                access_token: '232157.ab80749.3dbf9eb757e54aa1a75256a4b550f3c2',  // {String} - Instagram access_token.
+                user_id: 999999,            // {Number} - Your instagram user_id.
+                access_token: '999999.abcedfghchijklmopqrstuvxyz',  // {String} - Instagram access_token.
                 media_count: 1,             // {Number} - Number of images to display.
                 large_images: false         // {Boolean} - Display large (612x612px) or small (306x306px) images.
             }, options || {});
